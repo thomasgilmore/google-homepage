@@ -1,0 +1,34 @@
+.google-logo {
+    display: flex;
+    height: 92px;
+    width: 272px;
+    margin: 15% auto 0;
+}
+
+input {
+    border-radius: 20px;
+    display: flex;
+    margin: 10px auto 0 auto;
+    width: 50%;
+}
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+}
+
+.googleSearchButton {
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    display: flex;
+    margin: 10px 5px 0 auto;
+    padding: 0 16px;
+}
+
+.imFeelingLuckyButton {
+    background-color: #f8f9fa;
+    border-radius: 4px;
+    display: flex;
+    margin: 10px auto 0 5px;
+    padding: 0 16px;
+}
